@@ -96,9 +96,13 @@ Server will run at:
 ```
 http://127.0.0.1:8000
 ```
+Optional: For interactive API testing, visit: http://127.0.0.1:8000/docs
 
 ---
+🎥 Project Demo Video
 
+The demo video of the project is available inside the video folder:
+video/Project_Demo.mp4
 ## 🧪 API Usage
 
 ### 🔹 Grade a Repository
