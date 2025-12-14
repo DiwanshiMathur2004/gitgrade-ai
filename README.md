@@ -161,4 +161,3 @@ GitGrade AI provides students with transparent, recruiter-style feedback on thei
 
 👩‍💻 **Author**: Diwanshi Mathur
 🎓 Final Year B.Tech (Graduating April 2026)
-🏆 Hackathons: Smart India Hackathon, L’Oréal Hackathon, Adobe Connecting Hackathon
